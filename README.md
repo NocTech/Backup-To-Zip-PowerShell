@@ -1,2 +1,2 @@
-# Backup-to-zip
+# Backup-To-Zip-PowerShell
 Backup a folder with its subdirectories to a zip file. 
